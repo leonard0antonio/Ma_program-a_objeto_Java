@@ -4,7 +4,6 @@ public class Questao_03 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
 
-
         System.out.print("Digite a identificação do vendedor: ");
         String identificacaoVendedor = leia.nextLine();
 
@@ -29,3 +28,4 @@ public class Questao_03 {
         leia.close();
     }
 }
+

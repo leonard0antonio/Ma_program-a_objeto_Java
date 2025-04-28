@@ -23,3 +23,4 @@ public class Questao_02 {
         scanner.close();
     }
 }
+

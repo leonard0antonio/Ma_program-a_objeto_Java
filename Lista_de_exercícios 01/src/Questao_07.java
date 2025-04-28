@@ -11,5 +11,7 @@ public class Questao_07 {
         double celsius = (Fahrenheit - (double) 32.0F) * (double) 5.0F / (double) 9.0F;
 
         System.out.println("A temperatura em celsius é: " + celsius + "º");
+        leia.close();
     }
 }
+
